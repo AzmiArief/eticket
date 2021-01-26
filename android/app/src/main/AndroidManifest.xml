@@ -9,7 +9,7 @@
         android:name="io.flutter.app.FlutterApplication"
         android:label="eticket"
         android:icon="@mipmap/ic_launcher">
-        <activity
+        <activity>
             android:name=".MainActivity"
             android:launchMode="singleTop"
             android:theme="@style/LaunchTheme"
